@@ -29,7 +29,6 @@
 
             <TextView
                 android:id="@+id/tv_welcome"
-                style="@style/MaterialAlertDialog.Material3.Body.Text"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="FC Lorient History"
@@ -38,76 +37,67 @@
                 android:textSize="20sp" />
 
             <TextView
-                android:id="@+id/tv_description_1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:justificationMode="inter_word"
-                android:text="@string/club_history_paragraph_1" />
+                android:text="FC Lorient was founded on April 2, 1926. It started from La Maree Sportive created by Madame Cuissard and her son Joseph. The club played amateur football and won regional competitions before World War II disrupted its progress." />
 
             <TextView
-                android:id="@+id/tv_description_2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:justificationMode="inter_word"
-                android:text="@string/club_history_paragraph_2" />
+                android:text="After the war Antoine Cuissard joined the team. Lorient played in regional leagues and sometimes in the French amateur championship. The club tried to become professional in the 1960s and entered Division 2 in 1967." />
 
             <TextView
-                android:id="@+id/tv_description_3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:justificationMode="inter_word"
-                android:text="@string/club_history_paragraph_3" />
+                android:text="In the 1970s Lorient struggled in Division 2 and 3. The club went bankrupt in 1978 but continued under supporters management. In the 1980s under Christian Gourcuff the team rose through the divisions back to Division 2 by the early 1990s." />
 
             <TextView
-                android:id="@+id/tv_description_4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:justificationMode="inter_word"
-                android:text="@string/club_history_paragraph_4" />
+                android:text="In 1998–99 Lorient played in Division 1 for the first time but was relegated. They returned to top flight in 2001–02. The club had changes in management and players but continued to grow." />
 
             <TextView
-                android:id="@+id/tv_description_5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:justificationMode="inter_word"
-                android:text="@string/club_history_paragraph_5" />
+                android:text="Lorient won the Coupe de France in 2002, their first major trophy. They also played in UEFA Cup but were eliminated early. Despite cup success the team sometimes faced relegation battles in league play." />
 
             <TextView
-                android:id="@+id/tv_description_6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:justificationMode="inter_word"
-                android:text="@string/club_history_paragraph_6" />
+                android:text="The club returned to Ligue 1 in 2006 focusing on youth players from its academy. Lorient achieved mid-table finishes and their best Ligue 1 position was 7th in 2009–10." />
 
             <TextView
-                android:id="@+id/tv_description_7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:justificationMode="inter_word"
-                android:text="@string/club_history_paragraph_7" />
+                android:text="In 2016–17 Lorient lost the promotion playoff and went down to Ligue 2 after 11 years in top flight." />
 
             <TextView
-                android:id="@+id/tv_description_8"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:justificationMode="inter_word"
-                android:text="@string/club_history_paragraph_8" />
+                android:text="In 2020 Lorient was promoted to Ligue 1 after the season ended early due to the pandemic. In 2023–24 they were relegated to Ligue 2 on goal difference." />
 
             <TextView
-                android:id="@+id/tv_description_9"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:justificationMode="inter_word"
-                android:text="@string/club_history_paragraph_9" />
+                android:text="On May 10, 2025 Lorient became Ligue 2 champion and returned to Ligue 1." />
 
         </LinearLayout>
     </ScrollView>

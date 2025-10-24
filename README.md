@@ -8,7 +8,7 @@
 ---
 
 ## Demo Aplikasi
-
+![Screen_recording_20251024_203857+(1)+(1)](https://github.com/user-attachments/assets/080eae07-d111-46ce-8adf-8f3daa88b3fd)
 
 ---
 

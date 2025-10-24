@@ -1,0 +1,5 @@
+- Nama       : Tansah Jumeneng Prayogi
+- NIM        : H1D023090
+- Shft Baru  : F
+- Shdt Lama  : G
+- 
